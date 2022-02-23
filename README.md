@@ -11,7 +11,7 @@
 O coronavírus (COVID-19) é uma doença infecciosa causada pelo vírus SARS-CoV-2. O vírus possui uma alta taxa de transmissibilidade e atingiu rapitamente todos os países do planeta. Com o objetivo de elevar a atual consciência situacional a respeito do COVID-19 no Brasil e no mundo, realizei essa análise sobre os dados públicos da doença.
 
 
-[Projeto completo](http://bitly.ws/oHtR)
+[Projeto completo](https://colab.research.google.com/drive/1lrfsp_B0WwE8zgWN7atv7zdiXnpP1cXu?usp=sharing)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
