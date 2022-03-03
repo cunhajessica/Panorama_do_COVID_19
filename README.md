@@ -14,6 +14,8 @@ O coronavírus (COVID-19) é uma doença infecciosa causada pelo vírus SARS-CoV
 [Projeto completo](https://colab.research.google.com/drive/1lrfsp_B0WwE8zgWN7atv7zdiXnpP1cXu?usp=sharing)
 
 **Links:**
+
+* [Projeto no Medium](https://medium.com/@jessicacunha.jsc/panorama-do-covid-19-2b7977a62337)
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
 
 
